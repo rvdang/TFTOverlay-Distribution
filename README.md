@@ -9,5 +9,6 @@ To Use (Windows):
 3. Launch the application by running TFTOverlay.exe
 
 I hope the application is helpful! :)
+Feedback is very welcome especially in regards to UI or UX improvements.
 
 You can report any bugs you find as an issue in this repository. If possible, include the steps needed to recreate the bug.
