@@ -5,8 +5,13 @@ Current Version: 1.1
 
 To Use (Windows):
 1. Clone the git repository to a local directory or download the .zip file.
-2. Extract the zip contents to a desired location.
+2. Extract the zip contents of tftoverlay-v1.1-win32-x64.zip to a desired location.
 3. Launch the application by running TFTOverlay.exe
+
+To Use (MacOS):
+1. Clone the git repository to a local directory or download the .zip file.
+2. Extract the zip contents of tftoverlay-v1.1-darwin-x64.zip to a desired location.
+3. Launch the application by running TFTOverlay.app
 
 I hope the application is helpful! :)
 Feedback is very welcome especially in regards to UI or UX improvements.
