@@ -1,15 +1,15 @@
 # TFTOverlay-Distribution
 Overlay for Teamfight Tactics
 
-Current Version: 1.1
+Current Version: 1.2
 
 ## To Use (Windows)
-1. [Download the zip file](https://github.com/rvdang/TFTOverlay-Distribution/raw/master/tftoverlay-v1.1-win32-x64.zip)
+1. [Download the zip file](https://github.com/rvdang/TFTOverlay-Distribution/raw/master/tftoverlay-v1.2-win32-x64.zip)
 2. Extract the zip contents to a desired location.
 3. Launch the application by running TFTOverlay.exe
 
 ## To Use (MacOS)
-1. [Download the zip file](https://github.com/rvdang/TFTOverlay-Distribution/raw/master/tftoverlay-v1.1-darwin-x64.zip)
+1. [Download the zip file](https://github.com/rvdang/TFTOverlay-Distribution/raw/master/tftoverlay-v1.2-darwin-x64.zip)
 2. Extract the zip contents to a desired location.
 3. Launch the application by running TFTOverlay.app
 
